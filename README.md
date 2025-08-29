@@ -1,7 +1,7 @@
 Hi there , My name is Harshit Choudhary.
--> I am a student by mind.
--> Athlete by action.
--> Short of words as a writer.
+- '-> I am a student by mind.'
+- '-> Athlete by action.'
+- '-> Short of words as a writer.'
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haroharsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroharsh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harshitchoudhar8) 
