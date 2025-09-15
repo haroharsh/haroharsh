@@ -16,19 +16,6 @@ Hi there , My name is Harshit Choudhary.
 ---
 [![](https://visitcount.itsvg.in/api?id=haroharsh&icon=0&color=5)](https://visitcount.itsvg.in)
 
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Navoren/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="500" src="https://66.media.tumblr.com/ec91d01e032655ead88cb109ed646b8e/tumblr_pz5xlpm2wT1tgo74ho1_640.gif"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Navoren/Navoren/output/snake.svg" alt="Snake animation" />
