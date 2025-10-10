@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@haroharsh?name=haroharsh&theme=booru-vp&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
+  <img src="https://count.getloli.com/@haroharsh?name=haroharsh&theme=booru-vp&padding=14&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
